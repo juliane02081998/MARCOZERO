@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pontos_turisticos</title>
+</head>
+<body>
+    
+</body>
+</html>
+<h1>Pontos Turísticos - Recife Antigo</h1>
+
+    <h2>Praça do Arsenal</h2>
+    <p>A Praça do Arsenal é um ponto turístico importante...</p>
+    <img src="praca_do_arsenal.jpg" alt="Imagem da Praça do Arsenal">
+
+    <h2>Cais do Apolo</h2>
+    <p>O Cais do Apolo é conhecido por...</p>
+    <img src="cais_do_apolo.jpg" alt="Imagem do Cais do Apolo">
+
+    <!-- Adicione mais pontos turísticos conforme necessário -->
+
+    <!-- Link de volta para a página do Marco Zero -->
+    <p>Volte para a página sobre o Marco Zero <a href="marco_zero.html">aqui</a>.</p>
+
+</body>
+</html>
